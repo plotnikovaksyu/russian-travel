@@ -1,0 +1,10 @@
+.place__main-text {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 3;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}

@@ -1,0 +1,10 @@
+.place__title {
+ font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  margin: 0;
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
