@@ -2,13 +2,16 @@
   color: #FFFFFF;
   font-family: 'Inter';
   font-style: normal;
+  text-align: right;
   font-weight: 400;
   font-size: 24px;
-  line-height: 28px;
+  line-height: 117%;
+  text-decoration: none;
 }
-/*
-@media screen and (max-width: 544px) {
+
+@media screen and (max-width: 568px) {
   .header__lang-link {
     font-size: 18px; 
-  }
-} */
+    line-height: 20px;
+}
+}

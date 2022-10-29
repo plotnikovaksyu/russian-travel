@@ -1,6 +1,13 @@
 .header__lang-links {
   display: flex;
   justify-content: space-between;
-  margin: 18px 0 6px 0;
+  box-sizing: border-box;
+  padding: 18px 0 6px 0;
   gap: 18px;
+}
+
+@media screen and (max-width: 568px) {
+  .header__lang-links {
+    padding: 14px 0 8px 0;
+  }
 }

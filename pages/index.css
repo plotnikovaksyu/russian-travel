@@ -3,11 +3,21 @@
 @import url('../vendor/fonts/fonts.css');
 /* глобавльные стили */
 @import url('../blocks/page/page.css');
+@import url('../blocks/page/__content/page__content.css');
+@import url('../blocks/margins/margins.css');
+/* content */
+@import url('../blocks/content/content.css');
+@import url('../blocks/content/__cover/content__cover.css');
+@import url('../blocks/content/__lead/content__lead.css');
+@import url('../blocks/content/__intro/content__intro.css');
+@import url('../blocks/content/__grids/content__grids.css');
+@import url('../blocks/content/__places/content__places.css');
 /* header */
 @import url('../blocks/header/header.css');
+@import url('../blocks/header/__logo/header__logo.css');
 @import url('../blocks/header/__lang-links/header__lang-links.css');
 @import url('../blocks/header/__lang-link/header__lang-link.css');
-@import url('../blocks/header/__logo/header__logo.css');
+@import url('../blocks/header/__lang-link/_content/header__lang-link_content_ru.css');
 /* lead */
 @import url('../blocks/lead/lead.css');
 @import url('../blocks/lead/__image/lead__image.css');
@@ -22,6 +32,8 @@
 @import url('../blocks/intro/__line/intro__line.css');
 /* photo-grid */
 @import url('../blocks/photo-grid/photo-grid.css');
+@import url('../blocks/photo-grid/__image/photo-grid__image.css');
+@import url('../blocks/photo-grid/__list/photo-grid__list.css');
 @import url('../blocks/photo-grid/__item/photo-grid__item.css');
 /* places */
 @import url('../blocks/places/places.css');
@@ -33,3 +45,15 @@
 @import url('../blocks/place/__link/place__link.css');
 @import url('../blocks/place/__main-text/place__main-text.css');
 @import url('../blocks/place/__paragraph/place__paragraph.css');
+/* cover */
+@import url('../blocks/cover/cover.css');
+@import url('../blocks/cover/__item/cover__item.css');
+@import url('../blocks/cover/__title/cover__title.css');
+@import url('../blocks/cover/__subtitle/cover__subtitle.css');
+/* footer */
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__links/footer__links.css');
+@import url('../blocks/footer/__link/footer__link.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
+/* opacity */
+@import url('../blocks/opacity/opacity.css');
