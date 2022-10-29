@@ -1,15 +1,15 @@
-.margins {
+.page__header {
   margin: 0 48px;
 }
 
 @media screen and (max-width: 984px) {
-  .margins {
+  .page__header {
     margin: 0 24px;
-    }
+  }
 }
 
 @media screen and (max-width: 568px) {
-  .margins {
+  .page__header {
     margin: 0 16px;
-    }
-}      
+  }
+}

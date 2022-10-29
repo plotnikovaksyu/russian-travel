@@ -1,6 +1,6 @@
 .header__lang-link {
   color: #FFFFFF;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   text-align: right;
   font-weight: 400;
@@ -13,5 +13,5 @@
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;
-}
+  }
 }

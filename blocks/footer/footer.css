@@ -1,31 +1,14 @@
 .footer {
   color: #FFFFFF;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   display: flex;
   justify-content: space-between;
-  max-width: 1184px;
-  max-width: 100%;
   box-sizing: border-box;
-}
-
-@media screen and (max-width: 1124px) {
-  .footer {
-    max-width: 928px;
-    max-width: 100%;
-  }
-}
-
-@media screen and (max-width: 984px) {
-  .footer {
-    max-width: 720px;
-    max-width: 100%;
-  }
 }
 
 @media screen and (max-width: 715px) {
   .footer {
-    max-width: 186px;
     flex-direction: column;
     gap: 48px;
   }

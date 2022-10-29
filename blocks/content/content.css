@@ -1,7 +1,7 @@
 .content {
-    display: grid;
-    grid-row-gap: 92px;
-  }
+  display: grid;
+  grid-row-gap: 92px;
+}
 
 @media screen and (max-width: 984px) {
   .content {
