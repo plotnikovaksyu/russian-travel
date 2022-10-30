@@ -15,14 +15,14 @@
   }
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 1020px) {
   .place {
     grid-template-columns: minmax(340px, 1fr) minmax(352px, 1fr);
     column-gap: 28px;
   }
 }
 
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 767px) {
   .place {
     display: flex;
     flex-direction: column;

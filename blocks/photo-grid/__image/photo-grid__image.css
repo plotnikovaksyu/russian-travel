@@ -20,6 +20,6 @@
 @media screen and (max-width: 568px) {
   .photo-grid__image {
     min-height: 216px;
-    max-width: 288px;
+    max-width: 100%;
   }
 }
