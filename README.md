@@ -5,7 +5,7 @@
 ### Обзор
 * Описание
 * Figma
-* GitHub
+* GitHub Pages
 * Технологии
 
 **Описание**
@@ -18,7 +18,7 @@
 
 **GitHub**
 
-* [Ссылка на  проект в GitHub](https://github.com/plotnikovaksyu/russian-travel.git)
+* [Ссылка на  проект в GitHub Pages](https://plotnikovaksyu.github.io/russian-travel/index.html)
 
 
 **Технологии**

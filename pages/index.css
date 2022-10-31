@@ -32,7 +32,7 @@
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__list/intro__list.css');
 @import url('../blocks/intro/__line/intro__line.css');
-@import url('../blocks/intro/__line/_lighter/intro__line_lighter.css');
+@import url('../blocks/intro/__lighter/intro__lighter.css');
 /* photo-grid */
 @import url('../blocks/photo-grid/photo-grid.css');
 @import url('../blocks/photo-grid/__image/photo-grid__image.css');

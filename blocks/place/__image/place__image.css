@@ -5,25 +5,26 @@
   grid-column-end: 2;
   grid-row-start: 2;
   grid-row-end: 3;
-  justify-items: stretch;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 @media screen and (max-width: 1124px) {
   .place__image {
     min-height: 440px;
-    max-width: 100%;
+    max-width: 440px;
   }
 }
 
 @media screen and (max-width: 984px) {
   .place__image {
     min-height: 340px;
+    max-width: 340px;
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 722px) {
   .place__image {
     min-height: 320px;
+    max-width: 100%;
   }
 }
